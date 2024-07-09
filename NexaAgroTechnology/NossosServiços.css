@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(241, 194, 43);
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(to bottom, #c97910, #e6b61b);
+}
+
+h1 {
+  text-align: left;
+  color: black;
+  padding: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.servicos {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  padding: 30px;
+}
+
+.observacao {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  padding: 30px;
+}
